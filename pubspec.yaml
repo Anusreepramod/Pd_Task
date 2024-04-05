@@ -68,6 +68,21 @@ flutter:
     - assets/images/profile.gif
     - assets/images/menu.png
     - assets/images/perspaleta1_0043.png
+    - assets/images/feather_sliders.png
+    - assets/images/ant-design_play-circle-filled.png
+    - assets/images/avator.png
+    - assets/images/ant-design_play-circle-filled (1).png
+    - assets/images/Billy 31.png
+    - assets/images/Billy 65.png
+    - assets/images/profile2.gif
+    - assets/images/ellipse 3.png
+    - assets/images/test (1).png
+    - assets/images/desk.jpg
+    - assets/images/Time.png
+    - assets/images/Reception.png
+    - assets/images/Wifi.png
+    - assets/images/battery.png
+    - assets/images/feather_arrow-left.png
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware

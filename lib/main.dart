@@ -1,6 +1,7 @@
 import 'package:pdtask/StartUpEducation-3.dart';
 import 'package:pdtask/StartUpEducation.dart';
 import 'package:flutter/material.dart';
+import 'package:pdtask/profile.dart';
 
 
 void main() {
@@ -13,7 +14,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return const MaterialApp(
-      home:Startup(),
+      home:StartUp(),
     );
   }
 }
