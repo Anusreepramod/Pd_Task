@@ -83,6 +83,7 @@ flutter:
     - assets/images/Wifi.png
     - assets/images/battery.png
     - assets/images/feather_arrow-left.png
+    - assets/images/avatar.gif
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware
